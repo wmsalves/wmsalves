@@ -1,5 +1,8 @@
 Prazer, Wemerson 👋
 
+Estudante de Sistemas de Informação - PUC-MG
+Belo Horizonte - MG, Brasil.
+
 <!--
 **Veidoido/Veidoido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

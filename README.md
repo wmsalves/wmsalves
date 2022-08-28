@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=5FC3E4&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp>
+
 Prazer, Wemerson 👋
 
 Estudante de Sistemas de Informação - PUC-MG

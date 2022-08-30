@@ -4,7 +4,7 @@ Muito Prazer, Sou o Wemerson Alves e tenho 21 anos de Idade 👋
 
 Atualmente estudante de Sistemas de Informação - PUC-MG.
 
-Pretendo atualizar diariamente os meus repositórios com base nas atividades realizadas na faculdade e também meus projetos pessoais.
+Pretendo atualizar diariamente os meus repositórios com base nas atividades realizadas na faculdade e também com os meus projetos pessoais.
 
 Belo Horizonte - MG, Brasil.
 

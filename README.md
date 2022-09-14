@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 Muito Prazer, Sou o Wemerson Alves e tenho 21 anos de Idade 👋
 
@@ -15,4 +15,5 @@ Belo Horizonte - MG, Brasil.
 
 [![Snake animation](https://github.com/Veidoido/Veidoido/blob/output/github-contribution-grid-snake.svg)](url)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>

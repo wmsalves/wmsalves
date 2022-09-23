@@ -20,6 +20,7 @@ Belo Horizonte - MG, Brasil.
 <a href="https://www.linkedin.com/in/wmsalves/"><img align="left" src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/linkedin.png" alt="Wemerson | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/wmsalves"><img align="left" src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/instagram.png" alt="Wemerson | Instagram" width="21px"/></a>
 </br>
+</br>
 
 
 <div align="center">

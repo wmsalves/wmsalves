@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<h3 align="center">
+<h3 align="center"> 
 Muito Prazer, sou o Wemerson Alves 👋
 </h3>
 </br>
@@ -17,7 +17,7 @@ Pretendo atualizar diariamente os meus repositórios com base nas atividades rea
 Belo Horizonte - MG, Brasil.
 
 
-### 🤝 Me siga nas Redes Sociais:
+### <h3 align="center"> 🤝 Me siga nas Redes Sociais: </h3>
 
 <a href="https://instagram.com/wmsalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wmsalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

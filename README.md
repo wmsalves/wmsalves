@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://raw.githubusercontent.com/Reff20/Reff20/main/Design%20sem%20nome.svg" style="margin-top: 100px" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
-
 Muito Prazer, Sou o Wemerson Alves e tenho 21 anos de Idade 👋
 
 Atualmente estudante de Sistemas de Informação - PUC-MG.

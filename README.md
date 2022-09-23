@@ -3,7 +3,6 @@
 <h3 align="center"> 
 Muito Prazer, sou o Wemerson Alves 👋
 </h3>
-</br>
 
 <h4 align="center">
 Sou um dedicado estudante de Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), com bastante interesse em novas experiências para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.

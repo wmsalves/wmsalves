@@ -1,10 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <h1 align="center"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amiri+Quran&size=30&duration=4500&pause=2000&color=053B4D&background=FFFFFF00&width=442&lines=Muito+Prazer%2C+sou+o+Wemerson+Alves)](https://git.io/typing-svg)
- 
-<img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
+Seja bem vindo ao meu Perfil <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
 </h1>
 
 <h4 align="center">

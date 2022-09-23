@@ -17,7 +17,7 @@ Pretendo atualizar diariamente os meus repositórios com base nas atividades rea
 Belo Horizonte - MG, Brasil.
 
 
-### <h3 align="center"> 🤝 Me siga nas Redes Sociais: </h3>
+### <h3 align="center"> 🤝 Me siga nas Redes Sociais 🤝 </h3>
 
 <h3 align="center">
 <a href="https://instagram.com/wmsalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

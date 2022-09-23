@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <h1 align="center"> 
-Seja bem vindo ao meu Perfil <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
+Muito Prazer, Sou o Wemerson Alves e tenho 21 anos de Idade <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
 </h1>
 
 <h4 align="center">
-Meu nome é o Wemerson Alves, tenho 21 anos, sou um dedicado estudante de Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), com bastante interesse em novas experiências para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
+Sou um dedicado estudante de Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), com bastante interesse em novas experiências para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
 </h4>
 <h4 align="center">
 Através do GitHub, pretendo atualizar frequentemente os meus repositórios com base nas atividades realizadas durante meu percurso na faculdade e também com os meus projetos pessoais.

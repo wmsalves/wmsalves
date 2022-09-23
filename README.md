@@ -9,8 +9,9 @@ Sou um dedicado estudante de Sistemas de Informação na Pontifícia Universidad
 </h4>
 <h4 align="center">
 Através do GitHub, pretendo atualizar frequentemente os meus repositórios com base nas atividades realizadas durante meu percurso na faculdade e também com os meus projetos pessoais.
-<img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/coding.png" style="margin-top: 100px" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/coding.png" style="margin-top: 100px" min-width="400px" max-width="400px" width="400px" align="right" alt="coding">
 </h4>
+</br>
 
 ##
 

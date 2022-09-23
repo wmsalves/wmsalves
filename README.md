@@ -18,8 +18,9 @@ Belo Horizonte - MG, Brasil.
 
 ###  Me siga nas Redes Sociais:
 
-<a href="https://www.linkedin.com/in/wmsalves/"><img align="left" src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/linkedin.png" alt="Wemerson | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/wmsalves"><img align="left" src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/instagram.png" alt="Wemerson | Instagram" width="21px"/></a>
+<a href="https://instagram.com/wmsalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wmsalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/veidoidogaming" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </br>
 </br>
 

@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-![header](https://capsule-render.vercel.app/api?text=Muito Prazer!type=transparent)
+![header](https://capsule-render.vercel.app/api?text=Muito&Prazer!type=transparent)
 <h1 align="center"> 
 Muito Prazer, sou o Wemerson Alves 👋
 </h1>

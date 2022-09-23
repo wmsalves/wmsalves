@@ -11,7 +11,6 @@ Muito Prazer, sou o Wemerson Alves 👋
 <h4 align="center">
 Sou um dedicado estudante de Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), com bastante interesse em novas experiências para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
 </h4>
-</br>
 <h4 align="center">
 Pretendo atualizar diariamente os meus repositórios com base nas atividades realizadas na faculdade e também com os meus projetos pessoais.
 

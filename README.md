@@ -9,7 +9,7 @@ Tenho 21 anos de idade e sou um dedicado estudante de Sistemas de Informação n
 </h4>
 <h4 align="center">
 Através do GitHub, pretendo atualizar frequentemente os meus repositórios com base nas atividades realizadas durante meu percurso na faculdade e também com os meus projetos pessoais.
-<img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/coding.png" style="margin-top: 50px" min-width="400px" max-width="400px" width="800px" align="right" alt="coding">
+<img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/coding.png" style="margin-top: 50px" min-width="400px" max-width="400px" width="500px" align="right" alt="coding">
 </h4>
 
 ##

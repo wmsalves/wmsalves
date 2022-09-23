@@ -14,10 +14,6 @@ Sou um dedicado estudante de Sistemas de Informação na Pontifícia Universidad
 <h4 align="center">
 Através do GitHub, pretendo atualizar frequentemente os meus repositórios com base nas atividades realizadas durante meu percurso na faculdade e também com os meus projetos pessoais.
 </h4>
-<h4 align="center">
-Belo Horizonte - MG, Brasil.
-</h4>
-
 
 ### <h3 align="center"> 🤝 Me siga nas Redes Sociais 🤝 </h3>
 

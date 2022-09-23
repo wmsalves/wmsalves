@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center"> 
 Muito Prazer, sou o Wemerson Alves <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
@@ -29,11 +29,11 @@ Através do GitHub, pretendo atualizar frequentemente os meus repositórios com 
 
 <div align="center">
  <a href="https://github.com/Veidoido">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veidoido&show_icons=true&count_private=true&hide_border=true&title_color=2c0056&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>     
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veidoido&layout=compact&hide_border=true&title_color=2c0056&text_color=00bfbf&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veidoido&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veidoido&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
 [![Snake animation](https://github.com/Veidoido/Veidoido/blob/output/github-contribution-grid-snake.svg)](url)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

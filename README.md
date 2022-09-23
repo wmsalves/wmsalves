@@ -21,6 +21,7 @@ Belo Horizonte - MG, Brasil.
 <a href="https://instagram.com/wmsalves"><img align="left" src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/instagram.png" alt="Wemerson | Instagram" width="21px"/></a>
 </br>
 
+
 <div align="center">
  <a href="https://github.com/Veidoido">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Veidoido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veidoido&layout=compact&langs_count=7&theme=tokyonight"/>

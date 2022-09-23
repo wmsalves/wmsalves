@@ -8,13 +8,13 @@ Muito Prazer, sou o Wemerson Alves 👋
 
 
 
-<p align="center">
+<a align="center">
 Atualmente estudante de Sistemas de Informação - PUC-MG.
 
 Pretendo atualizar diariamente os meus repositórios com base nas atividades realizadas na faculdade e também com os meus projetos pessoais.
 
 Belo Horizonte - MG, Brasil.
-<p>
+</a>
 
 
 ### <h3 align="center"> 🤝 Me siga nas Redes Sociais 🤝 </h3>

@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c0056&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<h3 align="center"> 
+<h1 align="center"> 
 Muito Prazer, sou o Wemerson Alves 👋
-</h3>
+</h1>
 
 <h4 align="center">
 Sou um dedicado estudante de Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), com bastante interesse em novas experiências para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.

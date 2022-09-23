@@ -13,7 +13,7 @@ Através do GitHub, pretendo atualizar frequentemente os meus repositórios com 
 
 ##
 
-### <h3 align="center"> 🤝 Me siga nas Redes Sociais 🤝<a href="https://www.animatedimages.org/cat-stars-280.htm"><img src="https://www.animatedimages.org/data/media/280/animated-star-image-0005.gif" border="0" alt="animated-star-image-0005" /></a> </h3>
+### <h3 align="center"><a href="https://www.animatedimages.org/cat-stars-280.htm"><img src="https://www.animatedimages.org/data/media/280/animated-star-image-0005.gif" border="0" alt="animated-star-image-0005" /></a>🤝 Me siga nas Redes Sociais 🤝<a href="https://www.animatedimages.org/cat-stars-280.htm"><img src="https://www.animatedimages.org/data/media/280/animated-star-image-0005.gif" border="0" alt="animated-star-image-0005" /></a> </h3>
 
 <h3 align="center">
 <a href="https://instagram.com/wmsalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

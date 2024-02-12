@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center"> 
-Muito Prazer, sou o Wemerson Alves <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
+Seja bem vindo(a)
 </h1>
 
 <p align="left">
@@ -9,7 +9,6 @@ Muito Prazer, sou o Wemerson Alves <img src="https://raw.githubusercontent.com/V
 </p>
 <p align="left">
 - Através do GitHub, pretendo atualizar frequentemente os meus repositórios com base nas atividades realizadas durante meu percurso na faculdade e também com os meus projetos pessoais.
-<img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/coding.png" style="margin-top: 50px" min-width="400px" max-width="400px" width="450px" align="right" alt="coding">
 </p>
 
 ##

@@ -7,10 +7,10 @@ Muito Prazer, sou o Wemerson Alves <img src="https://raw.githubusercontent.com/V
 <p align="left">
 - Tenho 21 anos de idade e sou um dedicado estudante de <strong>Sistemas de Informação </strong> na <strong>Pontifícia Universidade Católica de Minas Gerais (PUC Minas)</strong>, com bastante interesse em novas experiências principalmente na <strong>area de desenvolvimento</strong> para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
 </p>
-<h4 align="left">
+<p align="left">
 - Através do GitHub, pretendo atualizar frequentemente os meus repositórios com base nas atividades realizadas durante meu percurso na faculdade e também com os meus projetos pessoais.
 <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/coding.png" style="margin-top: 50px" min-width="400px" max-width="400px" width="450px" align="right" alt="coding">
-</h4>
+</p>
 
 ##
 

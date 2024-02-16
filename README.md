@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1 align="center"> 
-Seja bem vindo(a)
-</h1>
+<img src= "https://github.com/Veidoido/Veidoido/blob/main/images/keepcodingbg.png"/>
 
+##
 <p align="left">
 - Tenho 21 anos de idade e sou um dedicado estudante de <strong>Sistemas de Informação </strong> na <strong>Pontifícia Universidade Católica de Minas Gerais (PUC Minas)</strong>, com bastante interesse em novas experiências principalmente na <strong>area de desenvolvimento</strong> para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
 </p>

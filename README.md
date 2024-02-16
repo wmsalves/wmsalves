@@ -4,7 +4,7 @@
 
 ##
 <p align="left">
-- Meu nome é <strong>Wemerson</strong>, tenho 23 anos de idade e sou um dedicado estudante de <strong>Sistemas de Informação </strong> na <strong>Pontifícia Universidade Católica de Minas Gerais (PUC Minas)</strong>, com bastante interesse em novas experiências principalmente na <strong>area de desenvolvimento</strong> para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
+- Meu nome é <strong>Wemerson</strong>, tenho 23 anos de idade e sou um dedicado estudante de <strong><i>Sistemas de Informação </i></strong> na <strong>Pontifícia Universidade Católica de Minas Gerais (PUC Minas)</strong>, com bastante interesse em novas experiências principalmente na <strong>area de desenvolvimento</strong> para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
 </p>
 
 <p align="left">

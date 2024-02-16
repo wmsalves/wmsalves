@@ -7,6 +7,10 @@
 - Meu nome é <strong>Wemerson</strong>, tenho 23 anos de idade e sou um dedicado estudante de <strong>Sistemas de Informação </strong> na <strong>Pontifícia Universidade Católica de Minas Gerais (PUC Minas)</strong>, com bastante interesse em novas experiências principalmente na <strong>area de desenvolvimento</strong> para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
 </p>
 
+<p align="left>
+ Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades, e já desenvolvi projetos pessoais, como os que são apresentados no meu perfil, que me permitiram praticar e aprimorar ainda mais minhas habilidades.
+</p>
+
 <p align="left">
 - Através do GitHub, pretendo atualizar frequentemente os meus repositórios com base nas atividades realizadas durante meu percurso na faculdade e também com os meus projetos pessoais.
 </p>

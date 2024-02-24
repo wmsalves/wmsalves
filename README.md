@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 <img src= "https://github.com/Veidoido/Veidoido/blob/main/images/keepcodingbg.png"/>
 
 ##

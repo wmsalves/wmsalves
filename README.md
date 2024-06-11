@@ -1,4 +1,6 @@
-<img src= "https://github.com/wmsalves/wmsalves/blob/main/images/keepcodingbg.png"/>
+<p align="center">
+ <img src= "https://github.com/wmsalves/wmsalves/blob/main/images/kpcodingnobg.png"/>
+</p>
 
 ##
 <p align="left">

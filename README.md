@@ -25,7 +25,7 @@
 ##
 <div align="center">
  <a href="https://github.com/wmsalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmsalves&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmsalves&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
  </a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

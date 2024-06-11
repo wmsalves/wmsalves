@@ -1,4 +1,4 @@
-<img src= "https://github.com/Veidoido/Veidoido/blob/main/images/keepcodingbg.png"/>
+<img src= "https://github.com/wmsalves/wmsalves/blob/main/images/keepcodingbg.png"/>
 
 ##
 <p align="left">
@@ -24,8 +24,8 @@
 
 ##
 <div align="center">
- <a href="https://github.com/Veidoido">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veidoido&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+ <a href="https://github.com/wmsalves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmsalves&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
  </a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

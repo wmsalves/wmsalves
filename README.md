@@ -30,4 +30,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmsalves&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
  </a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#240132&height=200&section=footer"/>
+<!---<width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#240132&height=200&section=footer"/> -->

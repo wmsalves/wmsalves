@@ -4,11 +4,11 @@
 
 ##
 <p align="left">
-Meu nome é <strong>Wemerson</strong>, tenho 24 anos de idade e sou um dedicado estudante de <strong>Sistemas de Informação </strong>na<strong> Pontifícia Universidade Católica de Minas Gerais (PUC Minas)</strong>, com bastante interesse em novas experiências principalmente na <strong>area de desenvolvimento</strong> para por em prática o conhecimento adquirido diariamente através das aulas e cursos realizados.
+My name is <strong>Wemerson</strong>, I am 24 years old, and I am a dedicated <strong>Information Systems</strong> student at the <strong>Pontifical Catholic University of Minas Gerais (PUC Minas)</strong>. I have a strong interest in gaining new experiences, particularly in the <strong>development field</strong>, to put into practice the knowledge acquired daily through classes and courses.
 </p>
 
 <p align="left">
-Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades, e através do GitHub, pretendo atualizar frequentemente os meus repositórios com base nas atividades realizadas durante meu percurso na faculdade e também com os meus projetos pessoais que me permitiram praticar e aprimorar ainda mais minhas habilidades.
+I am always seeking new challenges and opportunities to expand my knowledge and skills. Through GitHub, I aim to frequently update my repositories based on activities performed during my academic journey and with my personal projects, which have allowed me to practice and further enhance my abilities.
 </p>
 
 ##

@@ -37,8 +37,8 @@ I am always seeking new challenges and opportunities to expand my knowledge and 
 <!---<width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#240132&height=200&section=footer"/> -->
 
 
-<picture>
+<!---<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wmsalves/wmsalves/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wmsalves/wmsalves/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wmsalves/wmsalves/output/pacman-contribution-graph.svg">
-</picture>
+</picture>-->

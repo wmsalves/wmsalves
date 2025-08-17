@@ -5,11 +5,15 @@
 ###
 
 <p align="left">
-My name is <strong>Wemerson</strong>, I am 24 years old, and I am a dedicated <strong>Information Systems</strong> student at the <strong>Pontifical Catholic University of Minas Gerais (PUC Minas)</strong>. I have a strong interest in gaining new experiences, particularly in the <strong>development field</strong>, to put into practice the knowledge acquired daily through classes and courses.
+My name is <strong>Wemerson</strong>, I am <strong>24 years old</strong>, and a dedicated <strong>Information Systems student</strong> at the <strong>Pontifical Catholic University of Minas Gerais (PUC Minas)</strong>. Currently working as a <strong>Junior Developer</strong>, I focus on building and maintaining applications with <strong>JavaScript, TypeScript, Node.js, and SQL Server</strong>, while also expanding my knowledge in <strong>C# and .NET</strong>.
 </p>
 
 <p align="left">
-I am always seeking new challenges and opportunities to expand my knowledge and skills. Through GitHub, I aim to frequently update my repositories based on activities performed during my academic journey and with my personal projects, which have allowed me to practice and further enhance my abilities.
+Since an early age, I have been passionate about understanding how things work <strong>behind the scenes</strong>, which naturally led me into the world of <strong>technology</strong>. I am motivated by <strong>solving problems</strong>, creating <strong>efficient solutions</strong>, and continuously improving both my <strong>technical</strong> and <strong>soft skills</strong>.
+</p>
+
+<p align="left">
+Through <strong>GitHub</strong>, I share my <strong>academic projects</strong>, <strong>personal experiments</strong>, and <strong>professional growth</strong>, using it as a space to <strong>practice</strong>, <strong>learn</strong>, and <strong>showcase my progress</strong> in <strong>software development</strong>. I am always seeking <strong>new challenges</strong> and <strong>opportunities</strong> that push me to evolve and contribute meaningfully to the <strong>tech community</strong>.
 </p>
 
 ###

@@ -1,7 +1,3 @@
-<p align="center">
- <img src= "https://github.com/wmsalves/wmsalves/blob/main/images/githubbanner.png"/>
-</p>
-
 ###
 
 <p align="left">

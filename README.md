@@ -1,7 +1,7 @@
 ###
 
 <p align="left">
-My name is <strong>Wemerson</strong>, I am <strong>24 years old</strong>, and a dedicated <strong>Information Systems student</strong> at the <strong>Pontifical Catholic University of Minas Gerais (PUC Minas)</strong>. Currently working as a <strong>Junior Developer</strong>, I focus on building and maintaining applications with <strong>JavaScript, TypeScript, Node.js, and SQL Server</strong>, while also expanding my knowledge in <strong>C# and .NET</strong>.
+My name is <strong>Wemerson</strong>, I am <strong>24 years old</strong>, and a dedicated <strong>Information Systems student</strong> at the <strong>Pontifical Catholic University of Minas Gerais (PUC Minas)</strong>. Currently working as a <strong>Junior Developer</strong>, I focus on building and maintaining applications with <strong>JavaScript, TypeScript, Node.js, and SQL Server</strong>, while also expanding my knowledge in <strong>C#, .NET and Java</strong>.
 </p>
 
 <p align="left">

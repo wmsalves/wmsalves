@@ -31,6 +31,12 @@ Through <strong>GitHub</strong>, I share my <strong>academic projects</strong>, 
  <a href="https://github.com/wmsalves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmsalves&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
  </a>
+   <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=wmsalves&theme=midnight-purple&hide_border=false"
+    alt="GitHub Streak"
+  />
+ 
 </div>
 
 ###
